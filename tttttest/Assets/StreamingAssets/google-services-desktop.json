@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "949920909206",
+    "firebase_url": "https://desktopsystem-40436-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "desktopsystem-40436",
+    "storage_bucket": "desktopsystem-40436.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949920909206:ios:1906af6c93c2bc6d193fb7",
+        "android_client_info": {
+          "package_name": "DesktopSystem"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIH-dkyoFzk61yct5QSy4qcQ2nB9d4WBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

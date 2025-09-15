@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{34D2FE38-A1C1-BF5B-8D1C-59976C695E66}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RandomSpawner.cs">
+    <Files>
+      <File FileName="../FirebaseToUnity/Assets/Script/FirebaseManager_noError.cs" Line="31" Column="5" />
+      <File FileName="Assets/Scripts/RandomSpawner.cs" Line="93" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7bc69c56-df6b-42ba-aaf2-e59774a05da8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
